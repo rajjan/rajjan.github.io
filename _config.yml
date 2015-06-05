@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Rajjan Jeyaram Sangiah
+  name: Rajjan
   avatar: bio-photo.jpg
   bio: "Software Engineer."
   email: 
@@ -34,7 +34,7 @@ owner:
   twitter: RajjanJS
   facebook: RajjanJS
   google:
-    plus: #username
+    plus: RajjanJS
     analytics: 
     verify: 
     ad-client: 
@@ -42,9 +42,9 @@ owner:
   bing-verify: 
   github: rajjan
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: Rajjan
   xing: #username
-  instagram: #username
+  instagram: Rajjan
   lastfm: #username
   tumblr: #username
   pinterest: #username
