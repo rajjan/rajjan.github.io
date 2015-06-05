@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Rajjan Jeyaram Sangiah
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software Engineer."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: RajjanJS
+  facebook: RajjanJS
   google:
     plus: #username
     analytics: 
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: rajjan
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
