@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Rajjan
 locale:           en_US
 url:              
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Rajjan
   avatar: bio-photo.jpg
-  bio: "Software Engineer."
+  bio: "Software Engineer | Dad 2.0  "
   email: 
   disqus-shortname: 
   twitter: RajjanJS

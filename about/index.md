@@ -1,25 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About
+tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
-
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<br/>
+Rajjan is a software developer who works from Omaha, NE.  He started his career in software in year 2002 and still finding something interesting in programming.  He worked in India for about 3 years and later moved to USA in summer of 2005.  Apart from work, he enjoys playing around with Open source software and developing mobile applications for fun and profit!. 
+<br/>
+His wife is a stay at home mom, having 2 children and both are native [Nebraskans](http://en.wikipedia.org/wiki/Nebraskan).
+<br/>
+He has been [blogging](http://rajjan.blogspot.com/) since [2004](http://www.blogger.com/profile/05577412907485647904) and is not consistent doing that, so you may find few years with no posts.
+<br/>
+This blog was created to share some of the things that he believes that he knows :).
+<br/>
+Would like to find out more about his [professional profile?](https://www.linkedin.com/in/rajjan).
