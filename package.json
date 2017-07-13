@@ -1,25 +1,29 @@
 {
-  "name": "minimal-mistakes-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/minima-mistakes/",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "engines": {
-    "node": ">= 0.10.0"
+  "name": "creative",
+  "title": "Creative",
+  "version": "3.3.7+1",
+  "homepage": "http://startbootstrap.com/template-overviews/creative",
+  "author": "Start Bootstrap",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-jshint": "~0.6.3",
-    "grunt-contrib-uglify": "~0.2.2",
-    "grunt-contrib-watch": "~0.5.2",
-    "grunt-recess": "~0.3.5",
-    "grunt-contrib-imagemin": "~0.2.0",
-    "grunt-svgmin": "~0.2.0"
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-header": "^1.8.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
   }
 }
